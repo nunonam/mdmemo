@@ -8,7 +8,7 @@
 ### secondary dominant
 
 ### cliche
-#### 1. chord cliche
+ #### 1. chord cliche
 - 코드가 순차진행 > I△7 - IIm7 - IIIm7 - IV△7
 
 #### line cliche
